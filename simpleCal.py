@@ -34,3 +34,4 @@ while(True):
             exit()
     else:
         print("Not valid try again")
+        continue
